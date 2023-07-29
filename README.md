@@ -55,9 +55,6 @@ Contributions are welcome! If you find any bugs or want to suggest new features,
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) Licence.
 
-## Acknowledgments
-
-[Insert any acknowledgments or references to external resources if applicable.]
 
 ## Contact
 
